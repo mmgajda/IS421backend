@@ -166,4 +166,5 @@ __pycache__/
 # Environment variables
 .env
 
+.database/
 *.DS_Store
