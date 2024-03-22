@@ -160,11 +160,9 @@ __pycache__/
 *.py[cod]
 
 # Database files
-*.db
-*.sqlite
+#*.db
+#*.sqlite
+#database/
 
 # Environment variables
-.env
-
-.database/
 *.DS_Store
